@@ -71,7 +71,7 @@
     "scrypt-async": "2.0.1",
     "tweetnacl": "1.0.1",
     "tweetnacl-util": "0.15.0",
-    "web3": "0.20.7"
+    "web3": "1.2.0"
   },
   "devDependencies": {
     "@babel/core": "7.4.0",
